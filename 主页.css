@@ -1,4 +1,15 @@
 .first-1-tp {
   width: 50px;
-  height: 50px;
+  margin-top: 40px;
+  margin-left: 18px;
+  padding-bottom: 0px;
+}
+
+.first-2-tp, .first-3-tp, .first-4-tp, .first-5-tp, .first-6-tp, .first-7-tp{
+  padding-top: 40px;
+  margin-left: 26px;
+}
+
+.first-2-wz, .first-3-wz, .first-4-wz, .first-5-wz, .first-6-wz, .first-7-wz{
+  margin-left: 8px;
 }
